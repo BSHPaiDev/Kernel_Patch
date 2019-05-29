@@ -30,6 +30,10 @@ patch -s -p0 < patchfile.patch
    **Original source code:** [eInfoChips](https://www.einfochips.com/)
    
    **License:** GNU General Public License v2.0
+### 5. VOUT Temperature Monitor ADC Driver
+   **Original source code:** [eInfoChips](https://www.einfochips.com/)
+   
+   **License:** GNU General Public License v2.0
 ### 6. ST FlightSense Time-of-Flight Sensor Driver
    **Original source code:** [STFlightSenseLinuxDrivers/vl6180-driver
 ](https://github.com/STFlightSenseLinuxDrivers/vl6180-driver)
