@@ -37,3 +37,7 @@ Copy `kernel` directory to kernel base directory
 ](https://github.com/STFlightSenseLinuxDrivers/vl6180-driver)
    
    **License:** GNU General Public License v2.0
+### 7. MIPI DSI to LVDS driver
+   **Original source code:** [eInfoChips](https://www.einfochips.com/)
+   
+   **License:** GNU General Public License v2.0
