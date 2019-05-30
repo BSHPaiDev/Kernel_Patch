@@ -8,10 +8,8 @@ LA.UM.6.6.r1-04400-89xx.0.xml --repo-url=https://source.codeaurora.org/tools/rep
 --repo-branch=caf-stable
 ```
 ## Installation
-Navigate to kernel/msm and rin following commands in the terminal
-```
-patch -s -p0 < patchfile.patch
-```
+Copy `kernel` directory to kernel base directory
+
 ## Disclosures of Open Source Content - Firmware
 ### 1. PWM Fan Control
    **Original source code:** [eInfoChips](https://www.einfochips.com/)
@@ -39,4 +37,3 @@ patch -s -p0 < patchfile.patch
 ](https://github.com/STFlightSenseLinuxDrivers/vl6180-driver)
    
    **License:** GNU General Public License v2.0
-   **Installation:** copy folder `vl6180` to `kernel/msm-3.18/drivers/input/misc`
