@@ -21,7 +21,7 @@ patch -s -p0 < patchfile.patch
 ### 2. PWM output using GPIO
    **Original source code:** [mrdunk/home_automation_2](https://github.com/mrdunk/home_automation_2/blob/master/openwrt/sw_pwm_kernel_module/gpio-pwm.c)
    
-   **License:** The MIT License (MIT)
+   **License:** GNU General Public License v2.0
 ### 3. ISSI IS31FL32xx LED Driver
    **Original source code:** [torvalds/linux](https://github.com/torvalds/linux/blob/master/drivers/leds/leds-is31fl32xx.c)
    
@@ -39,3 +39,4 @@ patch -s -p0 < patchfile.patch
 ](https://github.com/STFlightSenseLinuxDrivers/vl6180-driver)
    
    **License:** GNU General Public License v2.0
+   **Installation:** copy folder `vl6180` to `kernel/msm-3.18/drivers/input/misc`
