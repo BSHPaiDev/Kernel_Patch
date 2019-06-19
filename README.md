@@ -21,7 +21,7 @@ Copy `kernel` directory to kernel base directory
    
    **License:** GNU General Public License v2.0
 ### 3. ISSI IS31FL32xx LED Driver
-   **Original source code:** [torvalds/linux](https://github.com/torvalds/linux/blob/master/drivers/leds/leds-is31fl32xx.c)
+   **Original source code:** [torvalds/linux](https://github.com/torvalds/linux/tree/master/drivers/leds)
    
    **License:** GNU General Public License v2.0
 ### 4. NTC Temperature Monitor ADC Driver

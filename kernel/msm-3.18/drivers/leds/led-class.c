@@ -7,6 +7,13 @@
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 as
  * published by the Free Software Foundation.
+  * @author: RBEI/BSH
+ *
+ * @chnages
+ *
+ *
+ * Added function max_brightness_store
+ * Few logic Modifications are done
  */
 
 #include <linux/ctype.h>

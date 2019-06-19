@@ -11,6 +11,16 @@
  * Datasheets:
  *   http://www.issi.com/US/product-analog-fxled-driver.shtml
  *   http://www.si-en.com/product.asp?parentid=890
+ * @author: RBEI/BSH
+ *
+ * @chnages
+ *
+ *
+ * Added LED_COUNT, GPIO_LED_SW_CNTRL, DRV_NAME, CLS_NAME, LED_IOC_MAGIC, GET_LED_STATE
+ * Added struct device_state_t
+ * Added pointer led_is31fl32xx_data
+ * Added __reg_address_arr
+ * Few logic Modifications are done
  */
 
 #include <linux/device.h>
