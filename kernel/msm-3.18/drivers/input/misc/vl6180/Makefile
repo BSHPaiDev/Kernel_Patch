@@ -1,7 +1,11 @@
 #
 # Makefile for the vl6180 drivers.
+# 
+# @author: RBEI/BSH
 #
-
+#@changes
+#ccflags related modifications done here
+# 
 # Each configuration option enables a list of files.
 #FEATURE_USE_CCI := false
 #FEATURE_USE_CCI := true
