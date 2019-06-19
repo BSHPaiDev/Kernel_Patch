@@ -17,8 +17,7 @@ Copy `kernel` directory to kernel base directory
    **License:** GNU General Public License v2.0
 
 ### 2. PWM output using GPIO
-   **Original source code:** [mrdunk/home_automation_2](https://github.com/mrdunk/home_automation_2/blob/master/openwrt/sw_pwm_kernel_module/gpio-pwm.c)
-   
+   **Original source code:** [eInfoChips](https://www.einfochips.com/)
    **License:** GNU General Public License v2.0
 ### 3. ISSI IS31FL32xx LED Driver
    **Original source code:** [torvalds/linux](https://github.com/torvalds/linux/tree/master/drivers/leds)
