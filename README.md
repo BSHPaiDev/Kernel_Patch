@@ -12,12 +12,13 @@ Copy `kernel` directory to kernel base directory
 
 ## Disclosures of Open Source Content - Firmware
 ### 1. PWM Fan Control
-   **Original source code:** [eInfoChips](https://www.einfochips.com/)
+   **Original source code:** [Olliver Schinagl](https://lore.kernel.org/patchwork/patch/612159/)
 
    **License:** GNU General Public License v2.0
 
 ### 2. PWM output using GPIO
    **Original source code:** [eInfoChips](https://www.einfochips.com/)
+
    **License:** GNU General Public License v2.0
 ### 3. ISSI IS31FL32xx LED Driver
    **Original source code:** [torvalds/linux](https://github.com/torvalds/linux/tree/master/drivers/leds)
