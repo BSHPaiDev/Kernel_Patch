@@ -6,6 +6,13 @@
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 2 as
  * published by the Free Software Foundation.
+ * @author: RBEI/BSH
+ *
+ * @chnages
+ *
+ *
+ * Registering as a character driver to control the fan from userspace
+ * Few logic Modifications are done
  */
 
 #include <linux/fan_control.h>
